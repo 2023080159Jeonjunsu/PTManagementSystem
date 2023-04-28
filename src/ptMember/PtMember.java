@@ -2,7 +2,7 @@ package ptMember;
 import java.util.Scanner;
 public class PtMember {
 	//필드들 전부 encapsulation
-	protected PtMemberType type = PtMemberType.Diet; //enum을 통해 pt받는 사람들 유형 추가
+	protected PtMemberType type = PtMemberType.Diet; //enum을 통해 pt받는 사람들 유형 추가s
 	protected int id;
 	protected String name;
 	protected double height;

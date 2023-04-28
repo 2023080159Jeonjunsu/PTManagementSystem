@@ -3,7 +3,7 @@ package ptMember;
 import java.util.Scanner;
 
 public class BulkUpPtMember extends PtMember {
-	//getUserScan을 그대로 가져오고 address에 새로운 구문 추가
+	//getUserScan을 그대로 가져오고 address에 새로운 구문 추가ss
 	public void getUserScan(Scanner scan) {
 		System.out.print("ID :");
 		int id = scan.nextInt();
