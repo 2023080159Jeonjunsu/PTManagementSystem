@@ -25,8 +25,8 @@ public void addMembers() {
 			while(type != 1 && type != 2 && type != 3 && type != 4) {
 		    System.out.println("1 is Diet type");
 		    System.out.println("2 is Bulk up type");
-		    System.out.println("3 is Leanmassup type"); //leanmassup 추가
-		    System.out.println("4 is Balance type"); //balance 추가
+		    System.out.println("3 is Leanmassup type");
+		    System.out.println("4 is Balance type"); 
 		    System.out.print("Select PtMember Type 1 ~ 4:");
 		    type = scan.nextInt();
 		    //type 추가로 인한 생성자 변경
