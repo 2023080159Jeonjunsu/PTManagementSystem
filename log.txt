@@ -1,0 +1,2 @@
+5월 29, 2023 9:12:02 오후 log.EventLogger log
+INFO: add a member
