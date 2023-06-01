@@ -7,6 +7,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+// JFrame 을 사용하여 메뉴선택코딩을 가시화 d
 public class MenuSelection extends JFrame{
 
 	

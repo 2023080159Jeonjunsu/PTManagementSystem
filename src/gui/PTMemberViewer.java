@@ -5,6 +5,8 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 
+// PT멤버의 info를 한눈에 확인할 수 있는 기능을 JFrmae 과 TalbeModel 을 통해 구현하였다.
+// 가로사이즈를 info의 크기만큼 늘렸다.
 public class PTMemberViewer extends JFrame{
 
 	public PTMemberViewer() {

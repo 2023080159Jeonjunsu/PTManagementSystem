@@ -7,6 +7,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.SpringLayout;
 
+//총 10개의 행을 추가하였고, 기본PT_info는 총 9개이다. JFrame 과 격자를 이용하여 위치를 선정하였다. 
 public class PTMemberAdder extends JFrame{
 
 	public PTMemberAdder() {
