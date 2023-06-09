@@ -1,2 +1,0 @@
-5월 29, 2023 9:32:23 오후 log.EventLogger log
-INFO: edit a list of member
